@@ -12,7 +12,7 @@ public class MainTest {
         MobilListrik electricCar = new MobilListrik();
         electricCar.merk = "Tesla";
         electricCar.tahun = 2021;
-        electricCar.JumlahRoda = 4;
+        electricCar.jumlahRoda = 4;
         electricCar.kapasitasBaterai = 100; // dalam kWh
         electricCar.infoMobilListrik(); // Memanggil method dari class MobilListrik
         

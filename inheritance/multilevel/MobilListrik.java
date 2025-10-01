@@ -1,4 +1,4 @@
-package inheritance.multiple;
+package inheritance.multilevel;
 
 public class MobilListrik extends Mobil {
     public int kapasitasBaterai; // dalam kWh

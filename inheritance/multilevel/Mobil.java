@@ -1,4 +1,4 @@
-package inheritance.multiple;
+package inheritance.multilevel;
 
 public class Mobil extends Kendaraan {
     public int jumlahRoda;

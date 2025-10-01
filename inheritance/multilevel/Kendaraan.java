@@ -1,4 +1,4 @@
-package inheritance.multiple;
+package inheritance.multilevel;
 
 public class Kendaraan {
     public String merk;

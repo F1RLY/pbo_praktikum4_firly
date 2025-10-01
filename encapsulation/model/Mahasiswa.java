@@ -1,4 +1,4 @@
-package encapsulation.model;
+package model;
 
 public class Mahasiswa {
     // Access Modifier

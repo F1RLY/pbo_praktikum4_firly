@@ -1,5 +1,5 @@
-package encapsulation.view;
-import encapsulation.model.Mahasiswa;
+package view;
+import model.Mahasiswa;
 
 public class MainEncapsulation {
     public static void main(String[] args) {
